@@ -10,7 +10,7 @@ The course resource repo is where all supplemental content and additional materi
 This repository contains;
 
 - code examples included in the online lecture content.
-- General p5 code examples.
+- General Scratch, App Lab, Alice and p5 code examples.
 - Examples of how to complete select homework assignments.
 - The course recognized and supported p5 "empty-example".
 - The wiki where idea and project sharing occurs.
@@ -21,14 +21,14 @@ This repository contains;
 
 This course is designed to teach code so that it can become a tool for art and creativity.
 
-Utilizing [p5.js](https://p5js.org), this course teaches concepts from computer science and programming. These will occur through visual and audio sketches that run in web browsers.
+Utilizing a number of different visually based programming languages and moving toward using [p5.js](https://p5js.org), to teach concepts from computer science and programming.
 
-- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/creative-coding-1/)
+- [_Creative Coding 1_ Website](https://montana-media-arts.github.io/creative-coding-1-Fall2019/)
 
 
 
-## Designer and Instructor Info
+## Instructor Info
 
-- Professor Michael Musick
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
-- Office: McGill Hall, 232.
+- Assistant Professor Michael Cassens
+- E-Mail: [michael.cassens@umontana.edu](mailto:michael.cassens@umontana.edu).
+- Office: McGill Hall, 230.
